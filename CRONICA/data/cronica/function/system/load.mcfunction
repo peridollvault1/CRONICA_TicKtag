@@ -19,6 +19,7 @@ loot give @a loot cronica:character/ikaros/select/blazing_shield
 
 
 
+## 編集したよ
 
 
 ## MOTION
