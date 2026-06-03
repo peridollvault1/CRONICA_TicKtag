@@ -15,6 +15,10 @@
 
     # データ管理
 
+
+## もう一個編集したよ
+
+
       # ストレージを初期化
         data remove storage cronica:temp MotionVector
         data modify storage cronica:temp MotionVector set value { \
